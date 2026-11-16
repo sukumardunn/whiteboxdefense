@@ -1,0 +1,9 @@
+# This repository publishes only the trained LoRA adapter.
+/*
+!/.gitignore
+!/.gitattributes
+!/lora-phishing-v2/
+!/lora-phishing-v2/**
+
+# Contains machine-local dataset paths and is not required for inference.
+/lora-phishing-v2/train_info.json
