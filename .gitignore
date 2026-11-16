@@ -4,6 +4,9 @@
 !/.gitattributes
 !/lora-phishing-v2/
 !/lora-phishing-v2/**
+!/dataset/
+!/dataset/phishing ss/
+!/dataset/phishing ss/**
 
 # Contains machine-local dataset paths and is not required for inference.
 /lora-phishing-v2/train_info.json
