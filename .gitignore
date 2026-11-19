@@ -7,6 +7,8 @@
 !/dataset/
 !/dataset/phishing ss/
 !/dataset/phishing ss/**
+!/dataset/phishing_attaque/
+!/dataset/phishing_attaque/**
 
 # Contains machine-local dataset paths and is not required for inference.
 /lora-phishing-v2/train_info.json
